@@ -18,15 +18,22 @@ While this sounds kind of ideologically driven in the first place, meritocracy f
 
 ## The Darwin Formula
 Based on our research true expertise or meritocracy, has seven major components.
+
 **(1)** The first component is the **decision context**. That we distinguish between being an expert for identifying dogs vs being an expert for cats. A expert therefore has many meritocracies score, each of which depends on the context of the decision.
+
 **(2)** Related to this context is the level of **uncertainty**. That means we distinguish between an expert providing wrong answers for difficult tasks vs an expert being wrong in easy decisions.
+
 **(3)Reliability**  is a measure that combines the *validity* of an expert (how often she is correctly identifying a cat as a cat on an image) with her meta-cognitive ability of *calibration* (how confident she was in making right decisions vs wrong decisions). The problem with this measure is that typically the true outcome can be seen only in the future thus providing time delayed feedback and allowing to measure expertise just retrospectivly.
+
 **(4)** The fourth important factor is *+time**. Especially, in a dynamic world. While an expert for identifying dogs today will probably still be an expert 10 years from now, this is not necessarily true for other settings. Imagine for instance people assessing new technology or markets. The knowledge they proved to have some time ago is probably outdated today and requires the expert to continuously learn new things.
+
 **(5)** However, time plays also another role that counts for the expert. We call this **explorative capacity**, meaning that people that were the first to provide an answer long ago before the true outcomes emerge prove higher level of expertise.
+
 **(6)** **Discrimination** is the ability to respond differently to different stimuli. This means that although we might not know if somebody is right or wrong, expertise is proven when the expert reacts differently to different data points. This can be measured at any point in time without requiring the true outcome.
-**(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, Cochran-Weiss-Shanteau (CWS) index, defined as Discrimination/Inconsistency.
+
+**(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, Cochran-Weiss-Shanteau (CWS) index, defined as $\frac{Discrimination}{Inconsistency}$.
 
 Based on those parts we are finally building the Darwin formula for meritocracy, which is a combination of the ingredients:
-$$ DarwinMeritocracy_{expert_{i}}(x_{i}, t) = \frac{CAPACITY_{explorative}(x_{i},t)}{RELIABILITY-RESOLUTION+UNCERTAINTY(x_{i})}*\frac{DISCRIMINATION(Expert \mid x_{i})}{INCONSITENCY(Expert  \mid x_{i})}*\frac{1}{(1+r)^{t}}$$
+$$ DarwinMeritocracy_{expert_{i}}(x_{i}, t) = \frac{CAPACITY_{explorative}(x_{i},t)}{RELIABILITY-RESOLUTION+UNCERTAINTY(x_{i})}*\frac{DISCRIMINATION(Expert\mid x_{i})}{INCONSITENCY(Expert\mid x_{i})}*\frac{1}{(1+r)^{t}}$$
 
 We use this generic formula for assessing meritocratic expertise in our hybrid intelligence systems for judgement and prediction tasks. If you are interested in more details or an algorithmic implementation of this formula follow support us working on this formula.
