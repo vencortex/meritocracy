@@ -34,6 +34,6 @@ Based on our research true expertise or meritocracy, has seven major components.
 **(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, Cochran-Weiss-Shanteau (CWS)index, defined as $\frac{Discrimination}{Inconsistency}$.
 
 Based on those parts we are finally building the Darwin formula for meritocracy, which is a combination of the ingredients:
-$$DarwinMeritocracy_{expert_{i}}(x_{i}, t) = \frac{CAPACITY_{explorative}(x_{i},t)}{RELIABILITY-RESOLUTION+UNCERTAINTY(x_{i})}*\frac{DISCRIMINATION(Expert\mid x_{i})}{INCONSITENCY(Expert\mid x_{i})}*\frac{1}{(1+r)^{t}}$$
+$$DarwinMeritocracy_{expert_{i}}(x_{i}, t) = \frac{CAPACITY_{explorative}(x_{i},t)}{RELIABILITY-RESOLUTION+UNCERTAINTY(x_{i})}*\frac{DISCRIMINATION(Expert\mid x_{i})}{INCONSISTENCY(Expert\mid x_{i})}*\frac{1}{(1+r)^{t}}$$
 
 We use this generic formula for assessing meritocratic expertise in our hybrid intelligence systems for judgement and prediction tasks. If you are interested in more details or an algorithmic implementation of this formula follow support us working on this formula.
