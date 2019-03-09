@@ -25,7 +25,7 @@ Based on our research true expertise or meritocracy, has seven major components.
 
 **(3)Reliability**  is a measure that combines the *validity* of an expert (how often she is correctly identifying a cat as a cat on an image) with her meta-cognitive ability of *calibration* (how confident she was in making right decisions vs wrong decisions). The problem with this measure is that typically the true outcome can be seen only in the future thus providing time delayed feedback and allowing to measure expertise just retrospectivly.
 
-**(4)** The fourth important factor is *+time**. Especially, in a dynamic world. While an expert for identifying dogs today will probably still be an expert 10 years from now, this is not necessarily true for other settings. Imagine for instance people assessing new technology or markets. The knowledge they proved to have some time ago is probably outdated today and requires the expert to continuously learn new things.
+**(4)** The fourth important factor is *time*. Especially, in a dynamic world. While an expert for identifying dogs today will probably still be an expert 10 years from now, this is not necessarily true for other settings. Imagine for instance people assessing new technology or markets. The knowledge they proved to have some time ago is probably outdated today and requires the expert to continuously learn new things.
 
 **(5)** However, time plays also another role that counts for the expert. We call this **explorative capacity**, meaning that people that were the first to provide an answer long ago before the true outcomes emerge prove higher level of expertise.
 
