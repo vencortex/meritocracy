@@ -31,10 +31,9 @@ Based on our research true expertise or meritocracy, has seven major components.
 
 **(6)** **Discrimination** is the ability to respond differently to different stimuli. This means that although we might not know if somebody is right or wrong, expertise is proven when the expert reacts differently to different data points. This can be measured at any point in time without requiring the true outcome.
 
-**(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, [Cochran-Weiss-Shanteau (CWS)index](http://www.academia.edu/download/7579786/hfpublication03.pdf), defined as
+**(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, [Cochran-Weiss-Shanteau (CWS)index](http://www.academia.edu/download/7579786/hfpublication03.pdf), defined as:
 
-<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
-
+![equation](https://latex.codecogs.com/png.latex?\frac{Discrimination}{Inconsistency})
 
 
 
