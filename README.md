@@ -33,7 +33,9 @@ Based on our research true expertise or meritocracy, has seven major components.
 
 **(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, [Cochran-Weiss-Shanteau (CWS)index](http://www.academia.edu/download/7579786/hfpublication03.pdf), defined as
 
-![GitHub Logo](http://www.w3.org/1999/xlink)
+<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+
+
 
 
 Based on those parts we are finally building the Darwin formula for meritocracy, which is a combination of the ingredients:
