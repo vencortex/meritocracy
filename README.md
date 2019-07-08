@@ -1,5 +1,5 @@
 # Meritocracy in Hybrid Intelligence Systems
-Our team at [Darwin](https://www.askdarwin.com) pursues a vision of a hybrid approach for solving complex problems, powered by the human mind, augmented by machines. Indeed so-called human-in-the-loop machine learning plays an important role in the progress of machine learning models in both research and big tech giants such as Amazon or Google. In this case, human (experts) are used for teaching machine learning models. Probably the easiest and most common example for this is using crowdsourcing for image recognition i.e. ask people to identify what they see in an image. This data can then be used as labeled data to train a neural network that can discriminate between, let's say, a cat and a dog.
+Our team at [vencortex](https://www.vencortex.com) pursues a vision of a hybrid approach for solving complex problems, powered by the human mind, augmented by machines. Indeed so-called human-in-the-loop machine learning plays an important role in the progress of machine learning models in both research and big tech giants such as Amazon or Google. In this case, human (experts) are used for teaching machine learning models. Probably the easiest and most common example for this is using crowdsourcing for image recognition i.e. ask people to identify what they see in an image. This data can then be used as labeled data to train a neural network that can discriminate between, let's say, a cat and a dog.
 
 Although this task seems trivial, the quality of labeling is central to the success of a machine learning model. Therefore, data scientists try to come up with ways to measure human expertise. The relevance for such expertise becomes even more relevant when considering highly critical tasks such as labeling a CT scan if there are visible maligned nodes that might indicate cancer.
 
@@ -16,7 +16,7 @@ For the application in hybrid systems that means users need to prove their talen
 
 While this sounds kind of ideologically driven in the first place, meritocracy for Hybrid Intelligence Systems is a very practical problem and researchers from psychology to weather forecasting are trying to come up with ideas to measure expertise empirically.
 
-## The Darwin Formula
+## The vencortex Formula
 Based on our research true expertise or meritocracy, has seven major components.
 
 **(1)** The first component is the **decision context**. That we distinguish between being an expert for identifying dogs vs being an expert for cats. A expert therefore has many meritocracies score, each of which depends on the context of the decision.
@@ -33,7 +33,7 @@ Based on our research true expertise or meritocracy, has seven major components.
 
 **(7)** The final component that can also be measured without knowing the true outcome is **consistency**. However, a high level of consistency can also be obtained if an expert is following a simple, but incorrect, rule, when followed precisely. Consistency can therefore be seen as a necessary but not sufficient criteria to determine expertise. This findings led to the development of one of the greatest formulas in empirical psychology of all time, [Cochran-Weiss-Shanteau (CWS)index](http://www.academia.edu/download/7579786/hfpublication03.pdf), defined as: ![equation](https://latex.codecogs.com/png.latex?\frac{Discrimination}{Inconsistency})
 
-Based on those parts we are finally building the Darwin formula for meritocracy, which is a combination of the ingredients:
+Based on those parts we are finally building the vencortex formula for meritocracy, which is a combination of the ingredients:
 ![equation](https://latex.codecogs.com/gif.latex?DarwinMeritocracy_{expert_{i}}(x_{i},&space;t)&space;=&space;\frac{CAPACITY_{explorative}(x_{i},t)}{RELIABILITY-RESOLUTION&plus;UNCERTAINTY(x_{i})}*\frac{DISCRIMINATION(Expert\mid&space;x_{i})}{INCONSISTENCY(Expert\mid&space;x_{i})}*\frac{1}{(1&plus;r)^{t}})
 
 We use this generic formula for assessing meritocratic expertise in our hybrid intelligence systems for judgement and prediction tasks. If you are interested in more details or an algorithmic implementation of this formula follow support us working on this formula.
